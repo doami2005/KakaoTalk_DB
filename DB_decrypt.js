@@ -1,3 +1,5 @@
+// 제가 제작한 함수가 아닙니다.
+
 function decrypt(userId, enc, text) {
     try {
         let iv = toByteArray([15, 8, 1, 0, 25, 71, 37, -36, 21, -11, 23, -32, -31, 21, 12, 53]);
